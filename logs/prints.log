@@ -1,0 +1,7 @@
+17:39:10.464 [main] INFO  resources.base - restricted user is logged in successfully
+17:39:12.087 [main] INFO  resources.base - navbar is displaying
+17:39:12.173 [main] INFO  resources.base - title is displaying
+17:40:57.423 [TestNG-tests-1] INFO  resources.base - title is displaying
+17:41:00.704 [TestNG-tests-3] INFO  resources.base - navbar is displaying
+17:41:04.555 [TestNG-tests-2] INFO  resources.base - restricted user is logged in successfully
+17:41:15.765 [TestNG-tests-2] INFO  resources.base - restricted user is logged in successfully

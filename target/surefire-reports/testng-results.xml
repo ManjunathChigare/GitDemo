@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32229" started-at="2021-05-07T11:56:43 IST" finished-at="2021-05-07T11:57:15 IST">
+    <groups>
+    </groups>
+    <test name="Test3" duration-ms="19357" started-at="2021-05-07T11:56:43 IST" finished-at="2021-05-07T11:57:02 IST">
+      <class name="E2Eproject.validationNavbar">
+        <test-method status="PASS" signature="initial()[pri:0, instance:E2Eproject.validationNavbar@485966cc]" name="initial" is-config="true" duration-ms="17063" started-at="2021-05-07T11:56:43 IST" finished-at="2021-05-07T11:57:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method status="PASS" signature="navigationBar()[pri:0, instance:E2Eproject.validationNavbar@485966cc]" name="navigationBar" duration-ms="197" started-at="2021-05-07T11:57:00 IST" finished-at="2021-05-07T11:57:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigationBar -->
+        <test-method status="PASS" signature="Last()[pri:0, instance:E2Eproject.validationNavbar@485966cc]" name="Last" is-config="true" duration-ms="2070" started-at="2021-05-07T11:57:00 IST" finished-at="2021-05-07T11:57:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Last -->
+      </class> <!-- E2Eproject.validationNavbar -->
+    </test> <!-- Test3 -->
+    <test name="Test" duration-ms="19716" started-at="2021-05-07T11:56:43 IST" finished-at="2021-05-07T11:57:02 IST">
+      <class name="E2Eproject.validateTitle">
+        <test-method status="PASS" signature="initial()[pri:0, instance:E2Eproject.validateTitle@3232a28a]" name="initial" is-config="true" duration-ms="17456" started-at="2021-05-07T11:56:43 IST" finished-at="2021-05-07T11:57:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method status="PASS" signature="validation()[pri:0, instance:E2Eproject.validateTitle@3232a28a]" name="validation" duration-ms="77" started-at="2021-05-07T11:57:00 IST" finished-at="2021-05-07T11:57:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validation -->
+        <test-method status="PASS" signature="Last()[pri:0, instance:E2Eproject.validateTitle@3232a28a]" name="Last" is-config="true" duration-ms="2176" started-at="2021-05-07T11:57:00 IST" finished-at="2021-05-07T11:57:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Last -->
+      </class> <!-- E2Eproject.validateTitle -->
+    </test> <!-- Test -->
+    <test name="Test2" duration-ms="32229" started-at="2021-05-07T11:56:43 IST" finished-at="2021-05-07T11:57:15 IST">
+      <class name="E2Eproject.Homepage">
+        <test-method status="PASS" signature="initial()[pri:0, instance:E2Eproject.Homepage@d5b810e]" name="initial" is-config="true" duration-ms="17760" started-at="2021-05-07T11:56:43 IST" finished-at="2021-05-07T11:57:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method status="PASS" signature="homepagenavigation(java.lang.String,java.lang.String)[pri:0, instance:E2Eproject.Homepage@d5b810e]" name="homepagenavigation" duration-ms="4095" started-at="2021-05-07T11:57:00 IST" data-provider="getData" finished-at="2021-05-07T11:57:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcedd@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456@sdd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepagenavigation -->
+        <test-method status="PASS" signature="Last()[pri:0, instance:E2Eproject.Homepage@d5b810e]" name="Last" is-config="true" duration-ms="472" started-at="2021-05-07T11:57:05 IST" finished-at="2021-05-07T11:57:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Last -->
+        <test-method status="PASS" signature="initial()[pri:0, instance:E2Eproject.Homepage@d5b810e]" name="initial" is-config="true" duration-ms="7148" started-at="2021-05-07T11:57:05 IST" finished-at="2021-05-07T11:57:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method status="PASS" signature="homepagenavigation(java.lang.String,java.lang.String)[pri:0, instance:E2Eproject.Homepage@d5b810e]" name="homepagenavigation" duration-ms="2486" started-at="2021-05-07T11:57:12 IST" data-provider="getData" finished-at="2021-05-07T11:57:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abgcd@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123466788]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepagenavigation -->
+        <test-method status="PASS" signature="Last()[pri:0, instance:E2Eproject.Homepage@d5b810e]" name="Last" is-config="true" duration-ms="215" started-at="2021-05-07T11:57:15 IST" finished-at="2021-05-07T11:57:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Last -->
+      </class> <!-- E2Eproject.Homepage -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>

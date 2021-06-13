@@ -1,0 +1,6 @@
+21:52:52.643 [TestNG-tests-2] INFO  resources.base - restricted user is logged in successfully
+21:55:22.345 [TestNG-tests-1] INFO  resources.base - title is displaying
+21:55:24.400 [TestNG-tests-3] INFO  resources.base - navbar is displaying
+21:55:26.547 [TestNG-tests-2] INFO  resources.base - restricted user is logged in successfully
+21:55:35.150 [TestNG-tests-2] INFO  resources.base - restricted user is logged in successfully
+21:58:30.167 [main] INFO  resources.base - title is displaying
