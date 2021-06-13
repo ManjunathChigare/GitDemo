@@ -33,6 +33,8 @@ public class validateTitle extends base {
 		Assert.assertEquals(l.title().getText(), "FEATURED COURSES");
 		log.info("title is displaying");
 		// l.title().getText()
+		System.out.println("project 1");
+		System.out.println("project 2");
 
 	}
 
@@ -40,5 +42,7 @@ public class validateTitle extends base {
 	public void Last() {
 		driver.close();
 	}
+	
+
 
 }
